@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\Vue_Test_03__!OK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|c:\\temp\\vue_test_03__!ok\\vue_test_03.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|solutionrelative:vue_test_03.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|c:\\temp\\vue_test_03__!ok\\vue_test_03.client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|solutionrelative:vue_test_03.client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|c:\\temp\\vue_test_03__!ok\\vue_test_03.client\\src\\main_original.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|solutionrelative:vue_test_03.client\\src\\main_original.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|c:\\temp\\vue_test_03__!ok\\vue_test_03.client\\src\\helpers\\fake-backend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|solutionrelative:vue_test_03.client\\src\\helpers\\fake-backend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|c:\\temp\\vue_test_03__!ok\\vue_test_03.client\\src\\helpers\\fetch-wrapper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|solutionrelative:vue_test_03.client\\src\\helpers\\fetch-wrapper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6538D3-1EFE-4BF1-A3A3-19FDF75E986C}|Vue_Test_03.Server\\Vue_Test_03.Server.csproj|c:\\temp\\vue_test_03__!ok\\vue_test_03.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6538D3-1EFE-4BF1-A3A3-19FDF75E986C}|Vue_Test_03.Server\\Vue_Test_03.Server.csproj|solutionrelative:vue_test_03.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|c:\\temp\\vue_test_03__!ok\\vue_test_03.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|solutionrelative:vue_test_03.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|c:\\temp\\vue_test_03__!ok\\vue_test_03.client\\src\\app_original.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1847BFF8-57A4-4FB1-AFDE-0E136A3B9C97}|vue_test_03.client\\vue_test_03.client.esproj|solutionrelative:vue_test_03.client\\src\\app_original.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\assets\\main.css",
+              "RelativeDocumentMoniker": "vue_test_03.client\\src\\assets\\main.css",
+              "ToolTip": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\assets\\main.css",
+              "RelativeToolTip": "vue_test_03.client\\src\\assets\\main.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-23T16:02:41.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main_Original.js",
+              "DocumentMoniker": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\main_Original.js",
+              "RelativeDocumentMoniker": "vue_test_03.client\\src\\main_Original.js",
+              "ToolTip": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\main_Original.js",
+              "RelativeToolTip": "vue_test_03.client\\src\\main_Original.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T16:02:20.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\main.js",
+              "RelativeDocumentMoniker": "vue_test_03.client\\src\\main.js",
+              "ToolTip": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\main.js",
+              "RelativeToolTip": "vue_test_03.client\\src\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T16:02:11.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fetch-wrapper.js",
+              "DocumentMoniker": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\helpers\\fetch-wrapper.js",
+              "RelativeDocumentMoniker": "vue_test_03.client\\src\\helpers\\fetch-wrapper.js",
+              "ToolTip": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\helpers\\fetch-wrapper.js",
+              "RelativeToolTip": "vue_test_03.client\\src\\helpers\\fetch-wrapper.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T15:05:04.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fake-backend.js",
+              "DocumentMoniker": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\helpers\\fake-backend.js",
+              "RelativeDocumentMoniker": "vue_test_03.client\\src\\helpers\\fake-backend.js",
+              "ToolTip": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\helpers\\fake-backend.js",
+              "RelativeToolTip": "vue_test_03.client\\src\\helpers\\fake-backend.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-22T15:16:10.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "vue_test_03.client\\src\\App.vue",
+              "ToolTip": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\App.vue",
+              "RelativeToolTip": "vue_test_03.client\\src\\App.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-03-22T13:05:17.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App_Original.vue",
+              "DocumentMoniker": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\App_Original.vue",
+              "RelativeDocumentMoniker": "vue_test_03.client\\src\\App_Original.vue",
+              "ToolTip": "C:\\Temp\\Vue_Test_03__!OK\\vue_test_03.client\\src\\App_Original.vue",
+              "RelativeToolTip": "vue_test_03.client\\src\\App_Original.vue",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-03-22T12:58:24.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Vue_Test_03__!OK\\Vue_Test_03.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Vue_Test_03.Server\\Program.cs",
+              "ToolTip": "C:\\Temp\\Vue_Test_03__!OK\\Vue_Test_03.Server\\Program.cs",
+              "RelativeToolTip": "Vue_Test_03.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:48:00.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

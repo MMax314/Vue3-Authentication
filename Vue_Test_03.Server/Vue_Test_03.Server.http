@@ -1,0 +1,6 @@
+@Vue_Test_03.Server_HostAddress = http://localhost:5117
+
+GET {{Vue_Test_03.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
